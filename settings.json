@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Staff24/7bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SleepyDude.aternos.me",
+    "port": 17170,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Join discord now for updates _https://discord.gg/Czu2FQtT3_!",
         "I like to play Minecraft!"
       ]
     },
@@ -72,9 +72,9 @@
     "pick-up-day": false,
     "place-night": false
   },
-  "discord": {
+  "discord": {https://discord.gg/Czu2FQtT3}
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",https://discord.gg/Czu2FQtT3
     "events": {
       "connect": true,
       "disconnect": true,
